@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS usuarios (
 
 -- Usuario administrador por defecto (password: Admin123!)
 INSERT INTO usuarios (nombres, username, password, rol) VALUES
-('Administrador Sistema', 'admin', '$2y$12$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin');
+('Administrador Sistema', 'admin', '$2y$12$tL6f9MFp9rq2j86RB6hl4uE2br9Ta9XdvHf8ds9bnNPM6RXUZ/CGu', 'admin');
 
 -- -----------------------------------------------------------
 -- TABLA: clientes
